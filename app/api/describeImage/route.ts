@@ -3,6 +3,10 @@ import Replicate from "replicate";
 
 const replicate = new Replicate();
 
+export const config = {
+  runtime: "edge",
+};
+
 export async function POST(request: NextRequest) {
   const { imageUrl } = await request.json();
 
