@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "carbonhost",
+  "private_key_id": "1b60280c7154c98a6593d7f4967dc72993d6895f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCpUUogAjJdJgtI\n+tyrmpg8rQslqwMW9qITg4b8Q7C0Z6RUj8OfOkKPvD0pvjqGcupfa/thZzOdnOCr\nK19U2D+T1A+0/f0a2vnR9FGnYd8a1U0DSyu9YC/VE/5YiAr4O30a8SmID/97w8rN\nLvGsSCl82l2JZv5T2eKWQe5EViLkWa7bjwm/adSCrqX5v72Gq29BnMbrHU9DLT3z\nRRXm+G7RJ3Mt0e8CO85iLHkuD5GHkWpGzgkrtm8XAWuHzUOi54ZiuDIu3Da6tZu5\nmWd+l3z6hbTZHpkJBiRDL7sXyqUZdgkcgFn2/XqYS1e8fM3xBpPly4LJ/m2XdUs5\nLGCQDCrtAgMBAAECggEARfgAPEL8Ig8nKbT1PPrpP2W5Dgth/vrTlmHLhfLJEnwj\n5gf07JdsSy6cTeQ9FjNl1CHw41r88vyRwVpujkbA2yuOhBpTnmXwR8mBdryUsGeF\n6D8Hp74YdiLJgDdT5SncNKaFJaOKzc/mvizQlQPLFTu93JqRrgADyVkch+Pajmcv\nD11kIUZch9AtB8cvSDzziwOujAmJqIwyY8MFEI0z8xtQwd7eD0fihsRPqw7r9RGQ\nISLZgQYnSDhQ98psY23be3hIiYY23DYV/dSratAYYvez4Xct1y9RLnJB8S90k8z3\n1wyCBP2TvTuo6sOzZI5eefkBoVgQ19vqrAw0S8CbtwKBgQDYRmO4jiiURxzFfpGp\nkTR9ICAjOo0R7AyLk9pBJi44Ql1968sePNRixYPstbFWuvH/4k77jF+FLUaDls/S\ngHtqfi8ydjLmtVjeX+mnrAEfcd5rO410mqmRjLlLZkPtEF0dpTsPbVrjVW6K4P1b\n5rX6bkzH87ylvFNO0ivsNW9d+wKBgQDIauIrE/TmPgfAlD8KQt6oNjlHlN3UVKNp\noXHPCJlIH1vx/E2WeIbKZrMkFhy5GHcntRM+uGza46kdTN7Lf3sWYiv+pnjiHvq0\nb/SP12TWKtJHh5RkH74sJRPYxOLZ0372x87pMKgqbP5iRn2danRqQdx0wvK7R68W\n3YAvKU3ONwKBgQC6o/w4782LMNdehDzWVe4zMT8qx8OoPMoSxjSq1nU6reMa4Rr3\n7EzpNEUGSUJSc6CWT8oTgW+JcaoRs1uD8McQ/vZiGOkSelvIBIOS5HhPl6f3aHxJ\nrZM6fXQG4qkp8144UDhottmhqD9ucH2VCsPu67MtN2WMrbpDIlMvVGnYcwKBgDgy\nAAikJ98HNZVB/AschOIVkioIC8slkExmAEtU1eXrJRTM8dRnJyRJd6F+sb8UpRR1\nKVhEzgDyJNEaZL4amKDGFh/o/awpk5JUcfaDJrsGdr+nvGv2mpQ2MUJuskzxiIAZ\ntmKcSgrbVNipez9QQiQpI2952iW5C9cVdIPEyRQxAoGBAJgUq/rbEw2llAV8Hwi8\njXELVFSY829cfL/N40SFbMWYiTw+OO2uk2rkHtJGTlF+YBBTWqQ2zuWY0YvI7Foa\nTcwLWn6AmSGlTvRlvc9BRdqGauZuPStcfditN/SP7fL70BHNFk4Qo9KRDEiNlnLV\nSvt8qeUwAMpY8DBI4qxY0vrC\n-----END PRIVATE KEY-----\n",
+  "client_email": "carbonbucket@carbonhost.iam.gserviceaccount.com",
+  "client_id": "104502945929544421830",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/carbonbucket%40carbonhost.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
